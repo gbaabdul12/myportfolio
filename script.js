@@ -1,4 +1,5 @@
 alert("Please bear with us as our engineers are working on the issues of images on this website. Thanks for your usual cooperation.")
+alert("Hello! I am an alert box!!");
 const navbar = document.querySelector(".navbar");
 const navbarOffsetTop = navbar.offsetTop;
 const sections = document.querySelectorAll("section");

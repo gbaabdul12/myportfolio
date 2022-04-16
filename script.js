@@ -1,4 +1,3 @@
-alert("Please bear with us as our engineers are working on the issues of images on this website. Thanks for your usual cooperation.")
 const navbar = document.querySelector(".navbar");
 const navbarOffsetTop = navbar.offsetTop;
 const sections = document.querySelectorAll("section");
